@@ -1,0 +1,102 @@
+Timestamp,Age,Education,Attendance,Percentage,StudyHours,FailedSubject,CourseInterest,FinancialDifficulty,Distance,InternetAccess,SocialMediaHours,StudyChallenges,MissedClasses,BreakThought,SupportNeeded
+28/06/2026 17:55:11,4,4,4,3,2,0,3,3,3,1,4,"Financial problems, Family responsibilities, Lack of motivation, Academic pressure",0,3,"Financial assistance, Academic tutoring, Career guidance"
+28/06/2026 18:21:01,4,5,3,3,4,0,4,1,2,2,2,Transportation issues,0,2,"Academic tutoring, Career guidance"
+28/06/2026 18:29:44,3,4,3,3,3,0,4,3,4,2,2,"Health issues, Lack of motivation",0,2,"Academic tutoring, Career guidance"
+28/06/2026 20:54:26,3,4,4,3,1,0,4,4,1,2,2,No Response,0,2,Career guidance
+30/06/2026 14:42:47,4,4,3,3,2,0,3,2,4,0,3,"Health issues, Academic pressure",0,1,"Academic tutoring, Career guidance, Better internet access"
+30/06/2026 14:42:54,3,4,4,4,1,0,1,3,4,2,2,"Financial problems, Health issues, Lack of motivation",1,1,"Financial assistance, Academic tutoring, Career guidance"
+30/06/2026 14:43:23,3,4,4,4,1,0,3,3,4,2,3,"Lack of motivation, None",0,1,"Financial assistance, Academic tutoring, Career guidance, Mental health/counseling support, Better transportation, Better internet access, Other"
+30/06/2026 14:46:52,3,4,3,3,1,0,2,5,4,2,4,"Financial problems, Health issues, Lack of motivation",0,2,"Financial assistance, Mental health/counseling support"
+30/06/2026 14:56:33,3,4,3,3,2,0,1,2,1,1,3,Lack of motivation,1,2,Academic tutoring
+30/06/2026 16:21:06,3,4,3,3,1,0,3,3,4,0,3,Health issues,1,1,"Financial assistance, Academic tutoring, Career guidance, Mental health/counseling support, Better internet access"
+30/06/2026 17:07:09,3,4,3,3,2,0,3,1,4,2,3,Lack of motivation,0,1,Career guidance
+30/06/2026 18:31:36,3,4,1,2,2,1,2,4,4,1,2,Family responsibilities,1,2,Mental health/counseling support
+30/06/2026 18:51:06,3,4,2,2,1,0,4,3,1,2,2,"Lack of motivation, Academic pressure",1,1,Better transportation
+30/06/2026 20:03:47,3,4,3,2,1,1,1,5,4,2,2,"Financial problems, Family responsibilities",1,1,Other
+01/07/2026 09:12:58,3,4,3,3,4,0,1,1,4,0,4,No Response,0,3,Other
+01/07/2026 13:11:35,3,4,3,3,3,1,5,4,2,2,4,"Financial problems, Family responsibilities, Health issues",1,4,"Academic tutoring, Career guidance, Mental health/counseling support"
+01/07/2026 16:51:21,4,4,3,2,3,0,5,4,2,0,3,Academic pressure,0,3,Career guidance
+01/07/2026 18:28:05,3,4,2,2,2,0,4,5,1,2,2,Lack of motivation,0,2,"Financial assistance, Career guidance"
+01/07/2026 19:37:33,4,4,3,3,1,0,4,1,4,2,3,No Response,0,1,Career guidance
+01/07/2026 19:46:49,4,4,3,3,2,0,5,1,1,2,4,No Response,0,1,Other
+01/07/2026 19:55:57,1,3,2,2,3,0,3,2,2,1,2,Lack of motivation,0,2,Mental health/counseling support
+01/07/2026 20:42:38,4,4,3,3,3,0,5,3,3,1,2,"Financial problems, Family responsibilities, Lack of motivation, Transportation issues",0,1,"Financial assistance, Better transportation"
+01/07/2026 21:27:02,4,4,1,3,1,0,5,1,1,2,2,No Response,1,1,Other
+01/07/2026 22:38:12,4,5,1,2,1,0,1,3,2,2,2,Lack of motivation,1,3,"Academic tutoring, Career guidance, Mental health/counseling support"
+02/07/2026 07:41:58,4,4,3,3,1,1,3,5,4,2,3,"Health issues, Lack of motivation, Academic pressure",1,3,"Academic tutoring, Career guidance, Mental health/counseling support"
+02/07/2026 08:18:03,4,4,2,3,1,0,1,4,3,2,2,"Family responsibilities, Lack of motivation",0,3,"Financial assistance, Career guidance, Mental health/counseling support, Better transportation"
+02/07/2026 08:32:02,4,4,2,2,2,0,5,1,1,2,3,Lack of motivation,1,3,"Financial assistance, Career guidance"
+02/07/2026 09:15:41,3,4,3,3,2,1,5,2,4,2,2,Family responsibilities,0,1,Financial assistance
+02/07/2026 10:45:40,4,4,2,3,2,0,5,2,4,2,4,"Health issues, Lack of motivation, Academic pressure",1,2,"Financial assistance, Academic tutoring, Career guidance, Mental health/counseling support"
+02/07/2026 20:55:13,3,4,3,2,4,0,5,2,1,2,1,"Financial problems, Family responsibilities, Lack of motivation, Academic pressure",0,1,"Financial assistance, Academic tutoring, Career guidance, Mental health/counseling support"
+03/07/2026 22:04:56,3,4,3,3,2,0,5,1,3,2,3,No Response,0,2,Other
+03/07/2026 22:06:48,4,3,4,2,2,0,5,1,3,0,1,Financial problems,0,2,Mental health/counseling support
+03/07/2026 22:06:50,3,4,3,3,1,0,3,2,4,1,3,"Health issues, Transportation issues",1,1,"Academic tutoring, Better internet access"
+03/07/2026 22:21:41,3,5,3,3,2,0,3,3,4,2,3,Lack of motivation,0,1,"Career guidance, Other"
+03/07/2026 22:25:41,3,4,3,2,2,0,3,4,4,0,2,"Financial problems, Family responsibilities",0,3,Financial assistance
+03/07/2026 22:26:01,3,4,3,1,2,1,4,1,4,2,2,No Response,0,3,"Career guidance, Mental health/counseling support"
+03/07/2026 22:28:39,4,4,3,3,2,0,4,1,3,2,2,No Response,0,2,Other
+03/07/2026 22:28:42,3,4,3,3,2,0,2,1,4,2,2,Transportation issues,1,3,"Academic tutoring, Mental health/counseling support, Better transportation"
+03/07/2026 22:33:29,3,4,4,3,1,0,5,1,4,1,4,No Response,1,2,"Academic tutoring, Career guidance, Mental health/counseling support"
+03/07/2026 23:26:10,3,4,4,2,1,0,4,1,4,2,4,No Response,0,2,Other
+04/07/2026 07:19:13,3,4,2,2,2,1,4,3,4,0,2,"Financial problems, Health issues",1,3,Financial assistance
+04/07/2026 10:11:14,4,4,2,3,2,0,4,1,4,2,2,"Health issues, Lack of motivation",1,1,"Academic tutoring, Career guidance, Better transportation"
+04/07/2026 13:01:54,2,3,2,2,2,0,3,2,3,1,4,Family responsibilities,1,2,Mental health/counseling support
+04/07/2026 13:16:01,3,3,4,4,2,0,5,5,3,2,2,"Financial problems, Family responsibilities",0,1,"Financial assistance, Academic tutoring, Career guidance"
+04/07/2026 16:19:27,4,5,3,2,1,0,2,1,1,2,2,No Response,0,2,Career guidance
+04/07/2026 18:59:22,4,4,3,3,2,0,4,1,4,2,3,Health issues,1,1,Other
+04/07/2026 20:58:15,3,4,4,3,2,0,3,3,4,1,2,No Response,0,2,"Financial assistance, Mental health/counseling support"
+04/07/2026 21:23:56,3,4,2,3,2,1,3,3,4,1,2,Financial problems,1,3,Career guidance
+05/07/2026 20:44:27,4,4,3,1,2,0,3,2,3,2,3,"Financial problems, Family responsibilities",0,2,"Financial assistance, Academic tutoring, Career guidance"
+05/07/2026 20:47:21,3,4,3,3,3,0,4,1,4,2,3,Lack of motivation,0,1,"Academic tutoring, Career guidance"
+05/07/2026 20:48:41,2,2,2,2,1,0,2,2,3,1,4,Financial problems,1,2,Academic tutoring
+06/07/2026 18:47:57,1,3,3,2,3,1,2,4,3,1,4,"Financial problems, Lack of motivation, Academic pressure",0,4,"Financial assistance, Mental health/counseling support, Better internet access"
+06/07/2026 18:49:00,2,4,4,4,1,0,4,3,1,2,1,"Financial problems, Family responsibilities, Health issues, Lack of motivation, Transportation issues, Academic pressure",1,1,"Financial assistance, Academic tutoring, Career guidance, Mental health/counseling support, Better transportation, Better internet access"
+06/07/2026 18:49:52,4,5,1,1,4,0,5,5,4,0,4,"Lack of motivation, Transportation issues, Academic pressure",0,4,"Financial assistance, Career guidance, Better internet access"
+06/07/2026 18:50:44,3,2,3,2,2,0,3,4,4,0,3,"Financial problems, Health issues, Lack of motivation, Academic pressure",1,2,"Academic tutoring, Mental health/counseling support, Better internet access"
+06/07/2026 18:51:34,3,4,3,2,4,0,3,1,4,0,4,"Financial problems, Health issues, Transportation issues",0,2,"Financial assistance, Career guidance, Mental health/counseling support, Better internet access"
+06/07/2026 18:53:15,1,1,4,2,2,0,3,3,2,2,3,"Family responsibilities, Lack of motivation, Academic pressure",1,2,"Academic tutoring, Mental health/counseling support, Better internet access"
+06/07/2026 18:53:57,2,2,3,3,3,1,3,3,3,1,3,"Health issues, Lack of motivation",0,2,"Career guidance, Mental health/counseling support"
+06/07/2026 18:54:39,2,2,3,3,2,0,2,2,2,1,2,Family responsibilities,0,2,Academic tutoring
+06/07/2026 18:55:14,1,1,4,4,1,1,1,1,1,2,1,Financial problems,1,1,Financial assistance
+06/07/2026 18:55:49,3,3,2,2,3,1,3,3,3,0,3,Health issues,1,3,Career guidance
+06/07/2026 18:56:29,4,4,1,1,4,0,4,4,4,2,4,Lack of motivation,0,4,Mental health/counseling support
+06/07/2026 18:57:22,4,4,1,1,4,0,5,5,4,1,4,Transportation issues,0,4,Better transportation
+06/07/2026 18:58:00,3,5,1,1,4,0,5,5,4,1,4,Academic pressure,0,2,Better internet access
+06/07/2026 18:59:32,4,1,1,1,4,0,1,5,4,0,4,No Response,0,4,Other
+06/07/2026 19:00:24,2,2,2,2,4,0,4,4,2,1,2,"Health issues, Lack of motivation",0,4,Mental health/counseling support
+06/07/2026 19:01:09,4,5,1,1,1,1,4,4,2,2,1,Family responsibilities,1,1,Financial assistance
+06/07/2026 19:01:46,2,2,3,3,2,0,3,3,4,1,3,"Lack of motivation, Transportation issues",0,1,"Better transportation, Better internet access"
+06/07/2026 19:02:21,2,1,4,4,1,1,4,4,3,1,2,Financial problems,1,1,Financial assistance
+06/07/2026 19:02:58,2,2,3,3,3,0,3,3,4,0,3,Family responsibilities,0,2,Academic tutoring
+06/07/2026 19:03:57,4,4,2,2,1,0,3,3,4,1,2,"Financial problems, Family responsibilities, Health issues, Lack of motivation, Transportation issues, Academic pressure",0,2,"Financial assistance, Academic tutoring, Career guidance, Mental health/counseling support, Better transportation, Better internet access"
+06/07/2026 19:04:40,4,4,4,4,1,0,5,5,4,0,3,Lack of motivation,0,3,"Mental health/counseling support, Better transportation"
+06/07/2026 19:05:36,3,4,3,3,1,0,3,3,4,1,3,Family responsibilities,1,2,"Academic tutoring, Mental health/counseling support"
+06/07/2026 19:06:13,2,2,3,3,3,0,2,2,2,1,2,Academic pressure,0,1,Financial assistance
+06/07/2026 19:07:26,1,1,4,4,4,0,5,3,2,1,4,"Financial problems, Family responsibilities, Lack of motivation, Transportation issues, Academic pressure",1,3,"Financial assistance, Academic tutoring, Career guidance, Mental health/counseling support, Better transportation"
+06/07/2026 19:08:13,3,4,2,2,3,0,3,3,2,1,3,Lack of motivation,0,4,Career guidance
+06/07/2026 19:08:48,4,5,2,2,1,0,4,4,3,2,3,Health issues,1,1,Career guidance
+06/07/2026 19:09:26,4,3,3,3,2,0,3,3,1,2,2,Lack of motivation,0,2,Academic tutoring
+06/07/2026 19:10:03,4,4,1,1,4,0,3,2,4,0,3,"Financial problems, Lack of motivation, Transportation issues",0,3,"Financial assistance, Mental health/counseling support, Better transportation"
+06/07/2026 19:10:38,4,4,2,2,3,1,3,1,4,1,3,"Family responsibilities, Health issues",0,2,"Career guidance, Mental health/counseling support"
+06/07/2026 19:11:11,2,2,3,3,2,0,3,3,4,0,3,Transportation issues,0,2,"Mental health/counseling support, Better transportation"
+06/07/2026 19:11:42,4,4,2,2,3,0,4,3,1,1,2,Academic pressure,0,1,Other
+06/07/2026 19:12:23,4,5,2,2,1,1,4,4,1,2,2,Financial problems,0,4,"Financial assistance, Academic tutoring"
+06/07/2026 19:12:57,3,3,3,3,2,0,2,2,4,0,4,"Financial problems, Academic pressure",0,2,"Financial assistance, Better transportation"
+06/07/2026 19:13:30,4,4,2,1,3,0,4,1,4,0,3,Transportation issues,0,4,Better internet access
+06/07/2026 19:14:08,2,2,3,3,1,1,1,3,1,2,2,Health issues,0,2,"Career guidance, Mental health/counseling support"
+06/07/2026 19:14:51,3,4,2,3,2,0,2,3,2,0,2,Lack of motivation,0,3,Better transportation
+06/07/2026 19:15:38,4,5,1,1,1,1,1,5,4,1,4,"Family responsibilities, Lack of motivation",1,2,"Academic tutoring, Mental health/counseling support"
+06/07/2026 19:16:37,3,3,2,3,3,0,3,2,2,0,2,Family responsibilities,0,4,Financial assistance
+06/07/2026 19:17:17,4,4,4,4,1,1,2,1,1,1,1,"Financial problems, Family responsibilities, Academic pressure",0,3,"Financial assistance, Academic tutoring, Mental health/counseling support"
+06/07/2026 19:18:00,3,4,2,2,4,0,2,4,3,1,2,Lack of motivation,0,1,Mental health/counseling support
+06/07/2026 19:18:39,2,2,3,3,2,1,4,4,1,2,1,"Family responsibilities, Health issues",0,2,"Financial assistance, Academic tutoring"
+06/07/2026 19:19:19,1,1,4,4,4,1,5,5,1,2,1,No Response,0,1,Other
+06/07/2026 19:19:51,3,4,2,2,3,1,3,2,4,2,1,Health issues,0,2,Academic tutoring
+06/07/2026 19:21:06,4,5,1,3,3,0,4,3,1,2,3,Transportation issues,0,4,Mental health/counseling support
+06/07/2026 19:21:39,4,4,4,4,4,1,4,2,1,0,4,Family responsibilities,0,2,Academic tutoring
+06/07/2026 19:22:14,3,3,2,2,3,0,3,3,3,1,3,"Financial problems, Family responsibilities",1,2,"Academic tutoring, Career guidance, Mental health/counseling support"
+06/07/2026 19:22:57,1,1,4,4,1,1,1,2,2,1,2,Health issues,0,3,Mental health/counseling support
+06/07/2026 19:23:33,4,4,3,2,3,1,2,4,3,1,2,Lack of motivation,0,2,"Academic tutoring, Mental health/counseling support"
+06/07/2026 19:24:05,2,2,3,3,2,1,3,3,1,1,3,Lack of motivation,0,2,Academic tutoring
+06/07/2026 19:24:39,4,5,4,4,2,0,4,3,2,1,2,Health issues,0,3,Mental health/counseling support

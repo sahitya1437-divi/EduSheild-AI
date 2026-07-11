@@ -1,0 +1,102 @@
+Timestamp,Age,Education,Attendance,Percentage,StudyHours,FailedSubject,CourseInterest,FinancialDifficulty,Distance,InternetAccess,SocialMediaHours,StudyChallenges,MissedClasses,BreakThought,SupportNeeded
+28/06/2026 17:55:11,above 20,Undergraduate,Above 90%,75 - 89%,1–2 hours,No,3,3,5–10 km,Sometimes,More than 4 hours,"Financial problems, Family responsibilities, Lack of motivation, Academic pressure",No,Sometimes,"Financial assistance, Academic tutoring, Career guidance"
+28/06/2026 18:21:01,above 20,Postgraduate,75 - 90%,75 - 89%,More than 4 hours,No,4,1,2–5 km,Yes,1–2 hours,Transportation issues,No,Rarely,"Academic tutoring, Career guidance"
+28/06/2026 18:29:44,18 - 20,Undergraduate,75 - 90%,75 - 89%,3–4 hours,No,4,3,More than 10 km,Yes,1–2 hours,"Health issues, Lack of motivation",No,Rarely,"Academic tutoring, Career guidance"
+28/06/2026 20:54:26,18 - 20,Undergraduate,Above 90%,75 - 89%,Less than 1 hour,No,4,4,Less than 2 km,Yes,1–2 hours,No Response,No,Rarely,Career guidance
+30/06/2026 14:42:47,above 20,Undergraduate,75 - 90%,75 - 89%,1–2 hours,No,3,2,More than 10 km,No,3–4 hours,"Health issues, Academic pressure",No,Never,"Academic tutoring, Career guidance, Better internet access"
+30/06/2026 14:42:54,18 - 20,Undergraduate,Above 90%,Above 90%,Less than 1 hour,No,1,3,More than 10 km,Yes,1–2 hours,"Financial problems, Health issues, Lack of motivation",Yes,Never,"Financial assistance, Academic tutoring, Career guidance"
+30/06/2026 14:43:23,18 - 20,Undergraduate,Above 90%,Above 90%,Less than 1 hour,No,3,3,More than 10 km,Yes,3–4 hours,"Lack of motivation, None",No,Never,"Financial assistance, Academic tutoring, Career guidance, Mental health/counseling support, Better transportation, Better internet access, Other"
+30/06/2026 14:46:52,18 - 20,Undergraduate,75 - 90%,75 - 89%,Less than 1 hour,No,2,5,More than 10 km,Yes,More than 4 hours,"Financial problems, Health issues, Lack of motivation",No,Rarely,"Financial assistance, Mental health/counseling support"
+30/06/2026 14:56:33,18 - 20,Undergraduate,75 - 90%,75 - 89%,1–2 hours,No,1,2,Less than 2 km,Sometimes,3–4 hours,Lack of motivation,Yes,Rarely,Academic tutoring
+30/06/2026 16:21:06,18 - 20,Undergraduate,75 - 90%,75 - 89%,Less than 1 hour,No,3,3,More than 10 km,No,3–4 hours,Health issues,Yes,Never,"Financial assistance, Academic tutoring, Career guidance, Mental health/counseling support, Better internet access"
+30/06/2026 17:07:09,18 - 20,Undergraduate,75 - 90%,75 - 89%,1–2 hours,No,3,1,More than 10 km,Yes,3–4 hours,Lack of motivation,No,Never,Career guidance
+30/06/2026 18:31:36,18 - 20,Undergraduate,Below 50%,60 - 74%,1–2 hours,Yes,2,4,More than 10 km,Sometimes,1–2 hours,Family responsibilities,Yes,Rarely,Mental health/counseling support
+30/06/2026 18:51:06,18 - 20,Undergraduate,50 - 74%,60 - 74%,Less than 1 hour,No,4,3,Less than 2 km,Yes,1–2 hours,"Lack of motivation, Academic pressure",Yes,Never,Better transportation
+30/06/2026 20:03:47,18 - 20,Undergraduate,75 - 90%,60 - 74%,Less than 1 hour,Yes,1,5,More than 10 km,Yes,1–2 hours,"Financial problems, Family responsibilities",Yes,Never,Other
+01/07/2026 09:12:58,18 - 20,Undergraduate,75 - 90%,75 - 89%,More than 4 hours,No,1,1,More than 10 km,No,More than 4 hours,No Response,No,Sometimes,Other
+01/07/2026 13:11:35,18 - 20,Undergraduate,75 - 90%,75 - 89%,3–4 hours,Yes,5,4,2–5 km,Yes,More than 4 hours,"Financial problems, Family responsibilities, Health issues",Yes,Often,"Academic tutoring, Career guidance, Mental health/counseling support"
+01/07/2026 16:51:21,above 20,Undergraduate,75 - 90%,60 - 74%,3–4 hours,No,5,4,2–5 km,No,3–4 hours,Academic pressure,No,Sometimes,Career guidance
+01/07/2026 18:28:05,18 - 20,Undergraduate,50 - 74%,60 - 74%,1–2 hours,No,4,5,Less than 2 km,Yes,1–2 hours,Lack of motivation,No,Rarely,"Financial assistance, Career guidance"
+01/07/2026 19:37:33,above 20,Undergraduate,75 - 90%,75 - 89%,Less than 1 hour,No,4,1,More than 10 km,Yes,3–4 hours,No Response,No,Never,Career guidance
+01/07/2026 19:46:49,above 20,Undergraduate,75 - 90%,75 - 89%,1–2 hours,No,5,1,Less than 2 km,Yes,More than 4 hours,No Response,No,Never,Other
+01/07/2026 19:55:57,Below 15,Diploma,50 - 74%,60 - 74%,3–4 hours,No,3,2,2–5 km,Sometimes,1–2 hours,Lack of motivation,No,Rarely,Mental health/counseling support
+01/07/2026 20:42:38,above 20,Undergraduate,75 - 90%,75 - 89%,3–4 hours,No,5,3,5–10 km,Sometimes,1–2 hours,"Financial problems, Family responsibilities, Lack of motivation, Transportation issues",No,Never,"Financial assistance, Better transportation"
+01/07/2026 21:27:02,above 20,Undergraduate,Below 50%,75 - 89%,Less than 1 hour,No,5,1,Less than 2 km,Yes,1–2 hours,No Response,Yes,Never,Other
+01/07/2026 22:38:12,above 20,Postgraduate,Below 50%,60 - 74%,Less than 1 hour,No,1,3,2–5 km,Yes,1–2 hours,Lack of motivation,Yes,Sometimes,"Academic tutoring, Career guidance, Mental health/counseling support"
+02/07/2026 07:41:58,above 20,Undergraduate,75 - 90%,75 - 89%,Less than 1 hour,Yes,3,5,More than 10 km,Yes,3–4 hours,"Health issues, Lack of motivation, Academic pressure",Yes,Sometimes,"Academic tutoring, Career guidance, Mental health/counseling support"
+02/07/2026 08:18:03,above 20,Undergraduate,50 - 74%,75 - 89%,Less than 1 hour,No,1,4,5–10 km,Yes,1–2 hours,"Family responsibilities, Lack of motivation",No,Sometimes,"Financial assistance, Career guidance, Mental health/counseling support, Better transportation"
+02/07/2026 08:32:02,above 20,Undergraduate,50 - 74%,60 - 74%,1–2 hours,No,5,1,Less than 2 km,Yes,3–4 hours,Lack of motivation,Yes,Sometimes,"Financial assistance, Career guidance"
+02/07/2026 09:15:41,18 - 20,Undergraduate,75 - 90%,75 - 89%,1–2 hours,Yes,5,2,More than 10 km,Yes,1–2 hours,Family responsibilities,No,Never,Financial assistance
+02/07/2026 10:45:40,above 20,Undergraduate,50 - 74%,75 - 89%,1–2 hours,No,5,2,More than 10 km,Yes,More than 4 hours,"Health issues, Lack of motivation, Academic pressure",Yes,Rarely,"Financial assistance, Academic tutoring, Career guidance, Mental health/counseling support"
+02/07/2026 20:55:13,18 - 20,Undergraduate,75 - 90%,60 - 74%,More than 4 hours,No,5,2,Less than 2 km,Yes,Less than 1 hour,"Financial problems, Family responsibilities, Lack of motivation, Academic pressure",No,Never,"Financial assistance, Academic tutoring, Career guidance, Mental health/counseling support"
+03/07/2026 22:04:56,18 - 20,Undergraduate,75 - 90%,75 - 89%,1–2 hours,No,5,1,5–10 km,Yes,3–4 hours,No Response,No,Rarely,Other
+03/07/2026 22:06:48,above 20,Diploma,Above 90%,60 - 74%,1–2 hours,No,5,1,5–10 km,No,Less than 1 hour,Financial problems,No,Rarely,Mental health/counseling support
+03/07/2026 22:06:50,18 - 20,Undergraduate,75 - 90%,75 - 89%,Less than 1 hour,No,3,2,More than 10 km,Sometimes,3–4 hours,"Health issues, Transportation issues",Yes,Never,"Academic tutoring, Better internet access"
+03/07/2026 22:21:41,18 - 20,Postgraduate,75 - 90%,75 - 89%,1–2 hours,No,3,3,More than 10 km,Yes,3–4 hours,Lack of motivation,No,Never,"Career guidance, Other"
+03/07/2026 22:25:41,18 - 20,Undergraduate,75 - 90%,60 - 74%,1–2 hours,No,3,4,More than 10 km,No,1–2 hours,"Financial problems, Family responsibilities",No,Sometimes,Financial assistance
+03/07/2026 22:26:01,18 - 20,Undergraduate,75 - 90%,Below 60%,1–2 hours,Yes,4,1,More than 10 km,Yes,1–2 hours,No Response,No,Sometimes,"Career guidance, Mental health/counseling support"
+03/07/2026 22:28:39,above 20,Undergraduate,75 - 90%,75 - 89%,1–2 hours,No,4,1,5–10 km,Yes,1–2 hours,No Response,No,Rarely,Other
+03/07/2026 22:28:42,18 - 20,Undergraduate,75 - 90%,75 - 89%,1–2 hours,No,2,1,More than 10 km,Yes,1–2 hours,Transportation issues,Yes,Sometimes,"Academic tutoring, Mental health/counseling support, Better transportation"
+03/07/2026 22:33:29,18 - 20,Undergraduate,Above 90%,75 - 89%,Less than 1 hour,No,5,1,More than 10 km,Sometimes,More than 4 hours,No Response,Yes,Rarely,"Academic tutoring, Career guidance, Mental health/counseling support"
+03/07/2026 23:26:10,18 - 20,Undergraduate,Above 90%,60 - 74%,Less than 1 hour,No,4,1,More than 10 km,Yes,More than 4 hours,No Response,No,Rarely,Other
+04/07/2026 07:19:13,18 - 20,Undergraduate,50 - 74%,60 - 74%,1–2 hours,Yes,4,3,More than 10 km,No,1–2 hours,"Financial problems, Health issues",Yes,Sometimes,Financial assistance
+04/07/2026 10:11:14,above 20,Undergraduate,50 - 74%,75 - 89%,1–2 hours,No,4,1,More than 10 km,Yes,1–2 hours,"Health issues, Lack of motivation",Yes,Never,"Academic tutoring, Career guidance, Better transportation"
+04/07/2026 13:01:54,15 - 17,Diploma,50 - 74%,60 - 74%,1–2 hours,No,3,2,5–10 km,Sometimes,More than 4 hours,Family responsibilities,Yes,Rarely,Mental health/counseling support
+04/07/2026 13:16:01,18 - 20,Diploma,Above 90%,Above 90%,1–2 hours,No,5,5,5–10 km,Yes,1–2 hours,"Financial problems, Family responsibilities",No,Never,"Financial assistance, Academic tutoring, Career guidance"
+04/07/2026 16:19:27,above 20,Postgraduate,75 - 90%,60 - 74%,Less than 1 hour,No,2,1,Less than 2 km,Yes,1–2 hours,No Response,No,Rarely,Career guidance
+04/07/2026 18:59:22,above 20,Undergraduate,75 - 90%,75 - 89%,1–2 hours,No,4,1,More than 10 km,Yes,3–4 hours,Health issues,Yes,Never,Other
+04/07/2026 20:58:15,18 - 20,Undergraduate,Above 90%,75 - 89%,1–2 hours,No,3,3,More than 10 km,Sometimes,1–2 hours,No Response,No,Rarely,"Financial assistance, Mental health/counseling support"
+04/07/2026 21:23:56,18 - 20,Undergraduate,50 - 74%,75 - 89%,1–2 hours,Yes,3,3,More than 10 km,Sometimes,1–2 hours,Financial problems,Yes,Sometimes,Career guidance
+05/07/2026 20:44:27,above 20,Undergraduate,75 - 90%,Below 60%,1–2 hours,No,3,2,5–10 km,Yes,3–4 hours,"Financial problems, Family responsibilities",No,Rarely,"Financial assistance, Academic tutoring, Career guidance"
+05/07/2026 20:47:21,18 - 20,Undergraduate,75 - 90%,75 - 89%,3–4 hours,No,4,1,More than 10 km,Yes,3–4 hours,Lack of motivation,No,Never,"Academic tutoring, Career guidance"
+05/07/2026 20:48:41,15 - 17,Intermediate,50 - 74%,60 - 74%,Less than 1 hour,No,2,2,5–10 km,Sometimes,More than 4 hours,Financial problems,Yes,Rarely,Academic tutoring
+06/07/2026 18:47:57,Below 15,Diploma,75 - 90%,60 - 74%,3–4 hours,Yes,2,4,5–10 km,Sometimes,More than 4 hours,"Financial problems, Lack of motivation, Academic pressure",No,Often,"Financial assistance, Mental health/counseling support, Better internet access"
+06/07/2026 18:49:00,15 - 17,Undergraduate,Above 90%,Above 90%,Less than 1 hour,No,4,3,Less than 2 km,Yes,Less than 1 hour,"Financial problems, Family responsibilities, Health issues, Lack of motivation, Transportation issues, Academic pressure",Yes,Never,"Financial assistance, Academic tutoring, Career guidance, Mental health/counseling support, Better transportation, Better internet access"
+06/07/2026 18:49:52,above 20,Postgraduate,Below 50%,Below 60%,More than 4 hours,No,5,5,More than 10 km,No,More than 4 hours,"Lack of motivation, Transportation issues, Academic pressure",No,Often,"Financial assistance, Career guidance, Better internet access"
+06/07/2026 18:50:44,18 - 20,Intermediate,75 - 90%,60 - 74%,1–2 hours,No,3,4,More than 10 km,No,3–4 hours,"Financial problems, Health issues, Lack of motivation, Academic pressure",Yes,Rarely,"Academic tutoring, Mental health/counseling support, Better internet access"
+06/07/2026 18:51:34,18 - 20,Undergraduate,75 - 90%,60 - 74%,More than 4 hours,No,3,1,More than 10 km,No,More than 4 hours,"Financial problems, Health issues, Transportation issues",No,Rarely,"Financial assistance, Career guidance, Mental health/counseling support, Better internet access"
+06/07/2026 18:53:15,Below 15,High School,Above 90%,60 - 74%,1–2 hours,No,3,3,2–5 km,Yes,3–4 hours,"Family responsibilities, Lack of motivation, Academic pressure",Yes,Rarely,"Academic tutoring, Mental health/counseling support, Better internet access"
+06/07/2026 18:53:57,15 - 17,Intermediate,75 - 90%,75 - 89%,3–4 hours,Yes,3,3,5–10 km,Sometimes,3–4 hours,"Health issues, Lack of motivation",No,Rarely,"Career guidance, Mental health/counseling support"
+06/07/2026 18:54:39,15 - 17,Intermediate,75 - 90%,75 - 89%,1–2 hours,No,2,2,2–5 km,Sometimes,1–2 hours,Family responsibilities,No,Rarely,Academic tutoring
+06/07/2026 18:55:14,Below 15,High School,Above 90%,Above 90%,Less than 1 hour,Yes,1,1,Less than 2 km,Yes,Less than 1 hour,Financial problems,Yes,Never,Financial assistance
+06/07/2026 18:55:49,18 - 20,Diploma,50 - 74%,60 - 74%,3–4 hours,Yes,3,3,5–10 km,No,3–4 hours,Health issues,Yes,Sometimes,Career guidance
+06/07/2026 18:56:29,above 20,Undergraduate,Below 50%,Below 60%,More than 4 hours,No,4,4,More than 10 km,Yes,More than 4 hours,Lack of motivation,No,Often,Mental health/counseling support
+06/07/2026 18:57:22,above 20,Undergraduate,Below 50%,Below 60%,More than 4 hours,No,5,5,More than 10 km,Sometimes,More than 4 hours,Transportation issues,No,Often,Better transportation
+06/07/2026 18:58:00,18 - 20,Postgraduate,Below 50%,Below 60%,More than 4 hours,No,5,5,More than 10 km,Sometimes,More than 4 hours,Academic pressure,No,Rarely,Better internet access
+06/07/2026 18:59:32,above 20,High School,Below 50%,Below 60%,More than 4 hours,No,1,5,More than 10 km,No,More than 4 hours,No Response,No,Often,Other
+06/07/2026 19:00:24,15 - 17,Intermediate,50 - 74%,60 - 74%,More than 4 hours,No,4,4,2–5 km,Sometimes,1–2 hours,"Health issues, Lack of motivation",No,Often,Mental health/counseling support
+06/07/2026 19:01:09,above 20,Postgraduate,Below 50%,Below 60%,Less than 1 hour,Yes,4,4,2–5 km,Yes,Less than 1 hour,Family responsibilities,Yes,Never,Financial assistance
+06/07/2026 19:01:46,15 - 17,Intermediate,75 - 90%,75 - 89%,1–2 hours,No,3,3,More than 10 km,Sometimes,3–4 hours,"Lack of motivation, Transportation issues",No,Never,"Better transportation, Better internet access"
+06/07/2026 19:02:21,15 - 17,High School,Above 90%,Above 90%,Less than 1 hour,Yes,4,4,5–10 km,Sometimes,1–2 hours,Financial problems,Yes,Never,Financial assistance
+06/07/2026 19:02:58,15 - 17,Intermediate,75 - 90%,75 - 89%,3–4 hours,No,3,3,More than 10 km,No,3–4 hours,Family responsibilities,No,Rarely,Academic tutoring
+06/07/2026 19:03:57,above 20,Undergraduate,50 - 74%,60 - 74%,Less than 1 hour,No,3,3,More than 10 km,Sometimes,1–2 hours,"Financial problems, Family responsibilities, Health issues, Lack of motivation, Transportation issues, Academic pressure",No,Rarely,"Financial assistance, Academic tutoring, Career guidance, Mental health/counseling support, Better transportation, Better internet access"
+06/07/2026 19:04:40,above 20,Undergraduate,Above 90%,Above 90%,Less than 1 hour,No,5,5,More than 10 km,No,3–4 hours,Lack of motivation,No,Sometimes,"Mental health/counseling support, Better transportation"
+06/07/2026 19:05:36,18 - 20,Undergraduate,75 - 90%,75 - 89%,Less than 1 hour,No,3,3,More than 10 km,Sometimes,3–4 hours,Family responsibilities,Yes,Rarely,"Academic tutoring, Mental health/counseling support"
+06/07/2026 19:06:13,15 - 17,Intermediate,75 - 90%,75 - 89%,3–4 hours,No,2,2,2–5 km,Sometimes,1–2 hours,Academic pressure,No,Never,Financial assistance
+06/07/2026 19:07:26,Below 15,High School,Above 90%,Above 90%,More than 4 hours,No,5,3,2–5 km,Sometimes,More than 4 hours,"Financial problems, Family responsibilities, Lack of motivation, Transportation issues, Academic pressure",Yes,Sometimes,"Financial assistance, Academic tutoring, Career guidance, Mental health/counseling support, Better transportation"
+06/07/2026 19:08:13,18 - 20,Undergraduate,50 - 74%,60 - 74%,3–4 hours,No,3,3,2–5 km,Sometimes,3–4 hours,Lack of motivation,No,Often,Career guidance
+06/07/2026 19:08:48,above 20,Postgraduate,50 - 74%,60 - 74%,Less than 1 hour,No,4,4,5–10 km,Yes,3–4 hours,Health issues,Yes,Never,Career guidance
+06/07/2026 19:09:26,above 20,Diploma,75 - 90%,75 - 89%,1–2 hours,No,3,3,Less than 2 km,Yes,1–2 hours,Lack of motivation,No,Rarely,Academic tutoring
+06/07/2026 19:10:03,above 20,Undergraduate,Below 50%,Below 60%,More than 4 hours,No,3,2,More than 10 km,No,3–4 hours,"Financial problems, Lack of motivation, Transportation issues",No,Sometimes,"Financial assistance, Mental health/counseling support, Better transportation"
+06/07/2026 19:10:38,above 20,Undergraduate,50 - 74%,60 - 74%,3–4 hours,Yes,3,1,More than 10 km,Sometimes,3–4 hours,"Family responsibilities, Health issues",No,Rarely,"Career guidance, Mental health/counseling support"
+06/07/2026 19:11:11,15 - 17,Intermediate,75 - 90%,75 - 89%,1–2 hours,No,3,3,More than 10 km,No,3–4 hours,Transportation issues,No,Rarely,"Mental health/counseling support, Better transportation"
+06/07/2026 19:11:42,above 20,Undergraduate,50 - 74%,60 - 74%,3–4 hours,No,4,3,Less than 2 km,Sometimes,1–2 hours,Academic pressure,No,Never,Other
+06/07/2026 19:12:23,above 20,Postgraduate,50 - 74%,60 - 74%,Less than 1 hour,Yes,4,4,Less than 2 km,Yes,1–2 hours,Financial problems,No,Often,"Financial assistance, Academic tutoring"
+06/07/2026 19:12:57,18 - 20,Diploma,75 - 90%,75 - 89%,1–2 hours,No,2,2,More than 10 km,No,More than 4 hours,"Financial problems, Academic pressure",No,Rarely,"Financial assistance, Better transportation"
+06/07/2026 19:13:30,above 20,Undergraduate,50 - 74%,Below 60%,3–4 hours,No,4,1,More than 10 km,No,3–4 hours,Transportation issues,No,Often,Better internet access
+06/07/2026 19:14:08,15 - 17,Intermediate,75 - 90%,75 - 89%,Less than 1 hour,Yes,1,3,Less than 2 km,Yes,1–2 hours,Health issues,No,Rarely,"Career guidance, Mental health/counseling support"
+06/07/2026 19:14:51,18 - 20,Undergraduate,50 - 74%,75 - 89%,1–2 hours,No,2,3,2–5 km,No,1–2 hours,Lack of motivation,No,Sometimes,Better transportation
+06/07/2026 19:15:38,above 20,Postgraduate,Below 50%,Below 60%,Less than 1 hour,Yes,1,5,More than 10 km,Sometimes,More than 4 hours,"Family responsibilities, Lack of motivation",Yes,Rarely,"Academic tutoring, Mental health/counseling support"
+06/07/2026 19:16:37,18 - 20,Diploma,50 - 74%,75 - 89%,3–4 hours,No,3,2,2–5 km,No,1–2 hours,Family responsibilities,No,Often,Financial assistance
+06/07/2026 19:17:17,above 20,Undergraduate,Above 90%,Above 90%,Less than 1 hour,Yes,2,1,Less than 2 km,Sometimes,Less than 1 hour,"Financial problems, Family responsibilities, Academic pressure",No,Sometimes,"Financial assistance, Academic tutoring, Mental health/counseling support"
+06/07/2026 19:18:00,18 - 20,Undergraduate,50 - 74%,60 - 74%,More than 4 hours,No,2,4,5–10 km,Sometimes,1–2 hours,Lack of motivation,No,Never,Mental health/counseling support
+06/07/2026 19:18:39,15 - 17,Intermediate,75 - 90%,75 - 89%,1–2 hours,Yes,4,4,Less than 2 km,Yes,Less than 1 hour,"Family responsibilities, Health issues",No,Rarely,"Financial assistance, Academic tutoring"
+06/07/2026 19:19:19,Below 15,High School,Above 90%,Above 90%,More than 4 hours,Yes,5,5,Less than 2 km,Yes,Less than 1 hour,No Response,No,Never,Other
+06/07/2026 19:19:51,18 - 20,Undergraduate,50 - 74%,60 - 74%,3–4 hours,Yes,3,2,More than 10 km,Yes,Less than 1 hour,Health issues,No,Rarely,Academic tutoring
+06/07/2026 19:21:06,above 20,Postgraduate,Below 50%,75 - 89%,3–4 hours,No,4,3,Less than 2 km,Yes,3–4 hours,Transportation issues,No,Often,Mental health/counseling support
+06/07/2026 19:21:39,above 20,Undergraduate,Above 90%,Above 90%,More than 4 hours,Yes,4,2,Less than 2 km,No,More than 4 hours,Family responsibilities,No,Rarely,Academic tutoring
+06/07/2026 19:22:14,18 - 20,Diploma,50 - 74%,60 - 74%,3–4 hours,No,3,3,5–10 km,Sometimes,3–4 hours,"Financial problems, Family responsibilities",Yes,Rarely,"Academic tutoring, Career guidance, Mental health/counseling support"
+06/07/2026 19:22:57,Below 15,High School,Above 90%,Above 90%,Less than 1 hour,Yes,1,2,2–5 km,Sometimes,1–2 hours,Health issues,No,Sometimes,Mental health/counseling support
+06/07/2026 19:23:33,above 20,Undergraduate,75 - 90%,60 - 74%,3–4 hours,Yes,2,4,5–10 km,Sometimes,1–2 hours,Lack of motivation,No,Rarely,"Academic tutoring, Mental health/counseling support"
+06/07/2026 19:24:05,15 - 17,Intermediate,75 - 90%,75 - 89%,1–2 hours,Yes,3,3,Less than 2 km,Sometimes,3–4 hours,Lack of motivation,No,Rarely,Academic tutoring
+06/07/2026 19:24:39,above 20,Postgraduate,Above 90%,Above 90%,1–2 hours,No,4,3,2–5 km,Sometimes,1–2 hours,Health issues,No,Sometimes,Mental health/counseling support
