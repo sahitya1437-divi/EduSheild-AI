@@ -3,7 +3,7 @@ import joblib
 import pandas as pd
 
 # Load model
-model = joblib.load("data/student_dropout_model.pkl")
+
 
 st.markdown("""
 <style>
@@ -61,7 +61,7 @@ st.set_page_config(
     page_icon="🎓",
     layout="wide"
 )
-
+model = joblib.load("data/student_dropout_model.pkl")
 st.markdown("""
 <div style="
 background:linear-gradient(90deg,#4F46E5,#2563EB,#06B6D4);
